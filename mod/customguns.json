@@ -1,8 +1,14 @@
 {
- "potatoesZip22": {
-  "fire": 0.05,  
-  "feed": 0.25,
-  "extract": 0.25,
-  "accDischarge": 0.15
- },
+  "potatoesZip22": {
+    "fire": 0.05,
+    "feed": 0.25,
+    "extract": 0.25,
+    "discharge": 0.15
+  },
+  "PisLvrmodular556": {
+    "fire": 0.001,
+    "feed": 0.0025,
+    "extract": 0.0025,
+    "discharge": 0.0001
+  }
 }

@@ -1,2 +1,4 @@
-# PBnJ-Custom-Item
-Example addon for PBnJamming that adds custom item support.
+# PB 'n' Jamming Example Addon
+An example addon for H3VR mod [PBnJamming](https://github.com/Maiq-The-Dude/PBnJamming) to add specific malfunction configs for custom items.
+
+We are adding two custom guns via [`customguns`](https://github.com/Maiq-The-Dude/PBnJamming.ExampleAddon/blob/main/mod/customguns.json) and one custom magazine via [`custommagazines`](https://github.com/Maiq-The-Dude/PBnJamming.ExampleAddon/blob/main/mod/custommagazines.json). Then all that is needed is a [`manifest`](https://github.com/Maiq-The-Dude/PBnJamming.ExampleAddon/blob/main/mod/manifest.json) file to tell Deli how to load our item configs. Finally, we zip up our three files and rename our zip extension from `.zip` to `.deli` and drop it into your H3VR `mods` folder.
