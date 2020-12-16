@@ -1,0 +1,8 @@
+{
+ "potatoesZip22": {
+  "fire": 0.05,  
+  "feed": 0.25,
+  "extract": 0.25,
+  "accDischarge": 0.15
+ },
+}
