@@ -1,5 +1,10 @@
 {
- "PMAG30": { 
-  "feed": 0.001
- }
+/*
+ * itemid: {
+ *  malfunction: chance
+ * }
+ */
+  "PMAG30": {
+    "feed": 0.001
+  }
 }

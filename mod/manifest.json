@@ -7,10 +7,13 @@
   "version": "0.0.0",
   "dependencies": {
     "deli.core": "0.2.5",
-	"pbnjamming": "0.0.0"
+    "pbnjamming": "0.0.0"
   },
+  /*
+   * Here we tell Deli which loaders to use for our JSON files
+   */
   "runtime": {
     "customguns.json": "pbnj.firearm",
-    "custommagazines.json":  "pbnj.magazine"
+    "custommagazines.json": "pbnj.magazine"
   }
 }

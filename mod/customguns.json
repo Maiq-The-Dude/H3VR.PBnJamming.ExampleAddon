@@ -1,4 +1,9 @@
 {
+/*
+ * itemid: {
+ *  malfunction: chance
+ * }
+ */
   "potatoesZip22": {
     "fire": 0.05,
     "feed": 0.25,
@@ -9,6 +14,7 @@
     "fire": 0.001,
     "feed": 0.0025,
     "extract": 0.0025,
+    "lockOpen": 0.0001,
     "discharge": 0.0001
   }
 }
