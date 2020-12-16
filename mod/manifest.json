@@ -1,0 +1,15 @@
+{
+  "name": "PB 'n' Jamming - Custom Items",
+  "authors": [
+    "M'aiq"
+  ],
+  "guid": "pbnj.customitems",
+  "version": "0.0.0",
+  "dependencies": {
+    "deli.core": "0.2.5",
+	"pbnjamming": "0.0.0"
+  },
+  "runtime": {
+    "customguns.json":  "pbnj.firearm"
+  }
+}
