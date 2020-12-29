@@ -6,7 +6,6 @@
   "guid": "pbnj.example",
   "version": "0.0.0",
   "dependencies": {
-    "deli.core": "0.2.5",
     "pbnjamming": "0.0.0"
   },
   /*
